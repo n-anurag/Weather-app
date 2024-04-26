@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 # Weather-app
 Real time weather using api
->>>>>>> bdd05158e12ea5b0c47f068b945784e435cd8b88
+
